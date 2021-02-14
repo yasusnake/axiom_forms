@@ -1,0 +1,29 @@
+.main-header {
+    margin-bottom: 20px;
+}
+.container {
+    padding-top: 25px;
+    max-width: 1200px;
+}
+.logo {
+    max-width: 250px;
+    
+}
+input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.main-title {
+    font-size: 26px;
+    text-align: center;
+}
+.secondary-title{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+.form-border {
+  border-top: 2px solid #000;
+  margin-top: 15px;
+  padding-top: 20px;
+}
